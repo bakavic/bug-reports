@@ -1,6 +1,6 @@
 # Bug Report
 
-This reproduces bug for "caret(`^version`) clobbers tilde(`~version`) in generated `yarn.lock`".
+This reproduces bug for "caret(`^version`) clobbers tilde(`~version`) in generated `yarn.lock`" https://github.com/oven-sh/bun/issues/8691.
 
 ## Steps to reproduce
 
